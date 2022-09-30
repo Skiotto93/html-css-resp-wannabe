@@ -155,7 +155,7 @@ img {
         width: 100%;
     }
     .lessons .text,.steps .text {
-        padding-bottom: 50px;
+        padding-bottom: 3rem;
     }
     .steps {
         padding-bottom: 0;
@@ -168,7 +168,7 @@ img {
         margin-top: 2rem;
     }
     .why-us img {
-        padding-bottom: 40px;
+        padding-bottom: 3rem;
     }
     .why-us h2 {
         font-size: 2.5rem;
