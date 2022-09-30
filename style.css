@@ -164,8 +164,14 @@ img {
     .why-us .col-left, .why-us .col-right {
         width: 100%;
     }
+    .why-us {
+        margin-top: 2rem;
+    }
     .why-us img {
         padding-bottom: 40px;
+    }
+    .why-us h2 {
+        font-size: 2.5rem;
     } 
     .why-us h3 {
         font-size: 2rem;
